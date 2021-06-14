@@ -1,1 +1,1 @@
-# Simple project to test the functions of JetPack Compose
+# Simple project to test the functions of Android JetPack Compose
